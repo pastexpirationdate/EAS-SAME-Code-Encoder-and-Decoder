@@ -1,6 +1,6 @@
-# Important notice
+# IMPORTANT NOTICE, READ THIS FIRST.
 
-This tool is for learning, research, decoding publicly posted alerts, and fiction such as film and audio projects. **Do not** transmit EAS tones or generated headers over the air, over a phone or radio system, or into real EAS equipment, and do not use them to mislead anyone. In the United States, misusing EAS tones and sending false alerts is illegal and can carry serious penalties. Real alerts should always come from official sources such as the National Weather Service and local emergency management.
+THIS TOOL IS FOR LEARNING, RESEARCH, DECODING PUBLICLY POSTED ALERTS, AND FICTION SUCH AS FILM AND AUDIO PROJECTS. **DO NOT** TRANSMIT EAS TONES OR GENERATED HEADERS OVER THE AIR, OVER A PHONE OR RADIO SYSTEM, OR INTO REAL EAS EQUIPMENT, AND DO NOT USE THEM TO MISLEAD ANYONE. IN THE UNITED STATES, MISUSING EAS TONES AND SENDING FALSE ALERTS IS ILLEGAL AND CAN CARRY SERIOUS PENALTIES. REAL ALERTS SHOULD ALWAYS COME FROM OFFICIAL SOURCES SUCH AS THE NATIONAL WEATHER SERVICE AND LOCAL EMERGENCY MANAGEMENT.
 
 
 
